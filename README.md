@@ -5,7 +5,11 @@ With PatternAI, developers can effortlessly switch, extend, or combine AI models
 ✨ Key Features
 
 🔁 Factory Pattern – dynamically select and create AI services based on model type
+
 🧠 Strategy Pattern – each AI provider implements a shared contract for seamless interchangeability
+
 🧩 Dependency Injection – decoupled, testable architecture ready for future AI expansions
+
 🔒 Secure Configuration – API keys managed through Laravel’s configuration and environment system
+
 🚀 Extensible Design – easily add new AI providers like Anthropic, Mistral, or custom LLMs
